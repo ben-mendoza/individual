@@ -1,4 +1,6 @@
 # Learning Objectives 
 - Remotes
 - GitHub
-- Network Problems
+- Network Activity
+- Branches
+- Something Else
